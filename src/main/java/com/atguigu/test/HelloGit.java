@@ -1,6 +1,7 @@
 package com.atguigu.test;
 
 /**
+ *
  * @author Hliang
  * @create 2021-04-28 11:53
  */
@@ -9,6 +10,7 @@ public class HelloGit {
         System.out.println("Hello,Git!");
         System.out.println("Hello,Git2!");
         System.out.println("Hello,Git3!");
+        System.out.println("Hello,Git4! hot fix!");
     }
     
 }
