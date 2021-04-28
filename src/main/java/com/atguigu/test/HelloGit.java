@@ -13,6 +13,7 @@ public class HelloGit {
         System.out.println("Hello,Git4! hot fix!");
         System.out.println("master commit1");
         System.out.println("hot fix commit1");
+        System.out.println("push test");
     }
     
 }
